@@ -1,8 +1,19 @@
-## Hi there 👋
-
 # Hi, I'm Yesica 👋
 
-Frontend Developer focused on building intuitive and scalable web interfaces with **React and TypeScript**.
+I'm a **Frontend Developer** with experience building intuitive and scalable web interfaces.
 
-I enjoy working on UI development, reusable components and design systems, always paying attention to user experience and code quality.
+I mainly work with **React, TypeScript and Material UI**, focusing on creating reusable components, design systems and clean, maintainable code. I enjoy collaborating with product and design teams to build user-centered web applications.
+
+### 🛠️ Tech stack
+- React, Next.js
+- JavaScript, TypeScript
+- Material UI, Bootstrap
+- Cypress
+- Firebase (basic)
+- Node.js (basic)
+
+### 🌱 Currently
+- Working as a Frontend Developer
+- Improving my frontend architecture and UI skills
+- Learning and growing with real-world projects
 
